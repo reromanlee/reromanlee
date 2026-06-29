@@ -1,1 +1,1 @@
-Unity developer with 5+ years of experience.
+Unity developer focused on shaping abstract ideas into polished, beautiful experiences across mobile and web. I care about reliable architecture, thoughtful design, and shipping things people genuinely enjoy.
